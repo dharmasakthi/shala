@@ -1,0 +1,14 @@
+{
+  "name": "date",
+  "version": "1.0.0",
+  "description": "Write a function wuth unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
